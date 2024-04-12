@@ -37,9 +37,9 @@ sidebar:
           level: Native
 
         - idiom: Xhosa
-          level: Professional
+          level: Intermediate
 
-        - idiom: Spanish
+        - idiom: Afrikaa
           level: Intermediate
 
     interests:
@@ -51,11 +51,9 @@ sidebar:
         - item: Audiobooks
           link:
 
-        - item: Boardgaming
+        - item: Boxing fitness
           link:
 
-        - item: Hobbyist Raspberry Pi
-          link:
 
 career-profile:
     title: Career Profile
