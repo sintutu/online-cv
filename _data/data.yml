@@ -100,7 +100,7 @@ experiences:
           - Enhanced automated environment setup and configured reporting metrics.
           - Led test efforts with multiple team dependencies, effectively communicating progress to management.
 
-      - role: Software Quality Analyst - Derivco
+      - role: Software Quality Analyst
         time: February 2018 - January 2022
         company: Derivco
         details: |
@@ -108,11 +108,11 @@ experiences:
           - Conducted front-end UX and API testing on products supporting continuous delivery.
           - Managed environment provisioning on both Windows and Linux virtual machines.
 
-      - role: Test Analyst Consultant - Dynamic Visual Technologies (DVT)
+      - role: Test Analyst
         time: January 2012 - January 2018
         company: Dynamic Visual Technologies (DVT)
         details: |
-          - Provided software quality assurance services, specializing in manual testing.
+          - Provided software quality assurance services to many industries, specializing in manual testing.
           - Developed test strategies, plans, and executed tests on various projects.
           - Collaborated with stakeholders to monitor test outcomes and project progress.
           - Troubleshooted issues as 3rd line support and provided detailed reports.
@@ -122,34 +122,34 @@ skills:
 
     toolset:
       - name: C# 
-        level: Proficient
+        level: 80%
 
       - name: NUnit
-        level: Intermediate
+        level: 90%
 
       - name: Azure DevOps
-        level: Intermediate
+        level: 80%
 
       - name: Docker & Kubernetes
-        level: Intermediate
+        level: 80%
 
       - name: API Testing
-        level: Proficient
+        level: 95%
 
       - name: OWASP ZAP
-        level: Intermediate
+        level: 85%
 
       - name: Load Testing (NBomber & JMeter)
-        level: Intermediate
+        level: 70%
 
       - name: Continuous Integration/Continuous Deployment (CI/CD)
-        level: Intermediate
+        level: 80%
 
       - name: Manual Testing
-        level: Proficient
+        level: 90%
 
       - name: Team Collaboration
-        level: Proficient
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
